@@ -7,7 +7,7 @@
   <h3 align="center">Binary Search Tree</h3>
 
   <p align="center">
-    <a href="https://github.com/vaahe/Binary Search Tree"><strong>Explore the docs »</strong></a>
+    <a href="https://pages.cs.wisc.edu/~cs400/readings/Binary-Search-Trees/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
   </p>
